@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/RelativeTumourLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BrainTumour"
+    android:background="@color/orange">
+
+    <ScrollView
+        android:id="@+id/scrollview_6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:ignore="UselessParent">
+
+        <LinearLayout
+            android:id="@+id/LineaLayout_6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            tools:ignore="UseCompoundDrawables">
+
+            <ImageView
+                android:id="@+id/ImageView_6"
+                android:layout_width="match_parent"
+                android:layout_height="292dp"
+                android:layout_margin="7dp"
+                android:contentDescription="@string/todo"
+                android:src="@drawable/braintumour" />
+
+            <TextView
+                android:id="@+id/textView_6"
+                android:layout_width="wrap_content"
+                android:layout_height="580dp"
+                android:layout_margin="7dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginEnd="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginBottom="5dp"
+                android:text="@string/infobraintumour"
+
+                />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+</RelativeLayout>

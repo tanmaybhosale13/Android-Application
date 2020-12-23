@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">ProjectDemo</string>
+    <string name="next">Next</string>
+    <string name="todo">TODO</string>
+    <string name="Text">Welcome to the HealthCare</string>
+    <string name="HealthCare">HealthCare</string>
+
+    <string name="CancerInfo">Cancer</string>
+    <string name="DiabetesInfo">Diabetes</string>
+    <string name="blood_Pressure_Info">Blood Pressure</string>
+    <string name="TyphoidInfo">Typhoid</string>
+    <string name="MalariaInfo">Malaria</string>
+    <string name="TumourInfo">Brain Tumour</string>
+    <string name="about">about</string>
+    <string name="infocancer">
+        <b>Cancer</b> is the uncontrolled growth of abnormal cells in the body.
+        Cancer develops when the body\'s normal control mechanism stops working.
+        Old cells don\'t die and instead grow out of control, forming new, abnormal cells. These extra cells may form a mass of tissue, called a tumor.
+        \nHere is a list of several  diet and activity :-
+        \n1) Be as lean as possible without becoming underweight.
+        \n2) Be physically active for at least 30 minutes every day.
+        \n3) Avoid sugary drinks, and limit consumption of high-calorie foods, especially those low in fiber and rich in fat or added sugar.
+        \n4) Eat more of a variety of vegetables, fruits, whole grains, and legumes (such as beans).
+        \n5) Limit consumption of red meats (including beef, pork, and lamb) and avoid processed meats.
+        \n6) If you drink alcohol, limit your daily intake to two drinks for men and one drink for women.
+        \n7) Limit consumption of salty foods and food processed with salt (sodium).
+        \n8) Do not use supplements to try to protect against cancer.
+        \n9) It is best for mothers to exclusively breastfeed their babies for up to six months and then add other liquids and foods.
+        \n10)After treatment, cancer survivors should follow the recommendations for cancer prevention.
+</string>
+    <string name="infodiabetes">
+        <b>Diabetes</b> mellitus (sometimes called "sugar diabetes") is a condition that occurs when the body cannot use glucose (a type of sugar) normally.
+        Glucose is the main source of energy for the body cells.
+        The levels of glucose in the blood are controlled by a hormone called insulin, which is made by the pancreas.
+        \nHere are some tips to help you reduce your risk of type 2 diabetes :-
+        \n1) Check your risk of diabetes :- Take the Life! risk assessment test and learn more about your risk of developing type-2 diabetes.
+        \n2) Manage your weight :- Excess body fat, particularly if stored around the abdomen, can increase the body’s resistance to the hormone insulin. This can lead to type 2 diabetes.
+        \n3) Exercise regularly :- Moderate physical activity on most days of the week helps manage weight, reduce blood glucose levels and may also improve blood pressure and cholesterol.
+        \n4) Eat a balanced, healthy diet :- Reduce the amount of fat in your diet, especially saturated and trans fats. Eat more fruit, vegetables and high-fibre foods. Cut back on salt.
+        \n5) Limit takeaway and processed foods :- ‘Convenience meals’ are usually high in salt, fat and kilojoules. It’s best to cook for yourself using fresh ingredients whenever possible.
+        \n6) Limit your alcohol intake :- Too much alcohol can lead to weight gain and may increase your blood pressure and triglyceride levels. Men should have no more than two standard drinks a day and women should have no more than one.
+        \n7) Quit smoking :- Smokers are twice as likely to develop diabetes as non-smokers.
+        \n8) Control your blood pressure :- Most people can do this with regular exercise, a balanced diet and by keeping a healthy weight. In some cases, you might need medication prescribed by your doctor.
+        \n9) Reduce your risk of cardiovascular disease :- Diabetes and cardiovascular disease have many risk factors in common, including obesity and physical inactivity.
+        \n10)See your doctor for regular check-ups :- As you get older, it’s a good idea to regularly check your blood glucose, blood pressure and blood cholesterol levels.
+
+
+
+    </string>
+    <string name="infobloodpressure">
+        When your heart beats, it pumps blood round your body to give it the energy and oxygen it needs.
+        As the blood moves, it pushes against the sides of the blood vessels.
+        The strength of this pushing is your <b>blood pressure</b>. If your blood pressure is too high, it puts extra strain on your arteries (and your heart) and this may lead to heart attacks and strokes.
+        \nSeveral ways to control high blood pressure without medication :-
+        \n1) Lose extra pounds and watch your waistline:- Weight loss is one of the most effective lifestyle changes for controlling blood pressure.
+        \n2) Exercise regularly:- Regular physical activity - such as 150 minutes a week, or about 30 minutes most days of the week - can lower your blood pressure by about 5 to 8 mm Hg if you have high blood pressure. It is important to be consistent because if you stop exercising, your blood pressure can rise again.
+        \n3) Eat a healthy diet.
+        \n4) Reduce sodium in your diet.
+        \n5) Limit the amount of alcohol you drink.
+        \n6) Quit smoking.
+        \n7) Reduce your stress.
+        \n8) Monitor your blood pressure at home and meet your doctor regularly for checkup.
+        \n9) Eat more potassium-rich foods.
+        \n10)Try meditation or deep breathing.
+
+    </string>
+    <string name="infotyphoid">
+        <b>Typhoid</b> fever is an acute illness associated with fever caused by the Salmonella enterica serotype Typhi bacteria. It can also be caused by Salmonella paratyphi, a related bacterium that usually causes a less severe illness.
+        \nHere are some tips to help you reduce your typhoid :-
+        \n1) Wash your hands :- Frequent hand-washing in hot, soapy water is the best way to control infection. Wash before eating or preparing food and after using the toilet. Carry an alcohol-based hand sanitizer for times when water isn not available.
+        \n2) Avoid drinking untreated water :- Contaminated drinking water is a particular problem in areas where typhoid fever is endemic. For that reason, drink only bottled water or canned or bottled carbonated beverages, wine and beer. Carbonated bottled water is safer than uncarbonated bottled water is.
+        \n3) Ask for drinks without ice :- Use bottled water to brush your teeth, and try not to swallow water in the shower.
+        \n4) Avoid raw fruits and vegetables :- Because raw produce may have been washed in unsafe water, avoid fruits and vegetables that you cannot peel, especially lettuce. To be absolutely safe, you may want to avoid raw foods entirely.
+        \n5) Choose hot foods :- Avoid food that is stored or served at room temperature. Steaming hot foods are best. And although there is no guarantee that meals served at the finest restaurants are safe, it is best to avoid food from street vendors — it is  more likely to be contaminated.
+        \nIf you are recovering from typhoid fever, these measures can help keep others safe:
+        \n1) Take your antibiotics :-Follow your doctors instructions for taking your antibiotics, and be sure to finish the entire prescription.
+        \n2) Wash your hands often :- This is the single most important thing you can do to keep from spreading the infection to others. Use hot, soapy water and scrub thoroughly for at least 30 seconds, especially before eating and after using the toilet.
+        \n3) Avoid handling food :- Avoid preparing food for others until your doctor says you are no longer contagious. If you work in the food service industry or a health care facility, you will not be allowed to return to work until tests show that you are no longer shedding typhoid bacteria.
+    </string>
+    <string name="infomalaria">
+        <b>Malaria</b> is a life-threatening disease. It is typically transmitted through the bite of an infected Anopheles mosquito. Infected mosquitoes carry the Plasmodium parasite. Malaria is typically found in tropical and subtropical climates where the parasites can live.
+        \nHere are some tips to help you prevent your Malaria :-
+        \n1) Take the right type of anti-malarial medicines for the country you are travelling to. The choice of anti-malarial prevention tablets will also need to take into account your medical history, age and other concurrent medications. You must take them daily or weekly, depending on the medication choice, prior to travel and upon return from the malaria area.
+        \n2) Protect yourself from mosquito bites by sleeping under an insecticide-treated mosquito net.​​
+        \n3) Wear socks, long pants, long-sleeve shirts and blouses.
+        \n4) Spray DEET mosquito repellent onto your clothes and the exposed parts of your skin.
+        \n5) Make sure the room doors and windows are closed properly and screened with gauze to prevent mosquitoes from getting in.
+        \n6) Spray the room with an insecticide before entering.
+        \n7) Pregnant women and young children should avoid travelling to malaria-prone areas.
+        \n8) Prevention is better than cure :-Effective treatment is the corner stone for preventing its spread. Consult a specialist immediately if you notice that you have developed high fever, chills, nausea and weakness.
+
+
+
+    </string>
+    <string name="infobraintumour">
+        A <b>brain tumor</b> is a collection, or mass, of abnormal cells in your brain. Your skull, which encloses your brain, is very rigid.
+        Any growth inside such a restricted space can cause problems.
+        Brain tumors can be cancerous (malignant) or noncancerous (benign).
+        A primary brain tumor originates in your brain.
+        \nThere is  no way to prevent brain cancer, but you can reduce your risk of getting it if you :-
+        \n1) avoid exposure to pesticides and insecticides.
+        \n2) avoid exposure to carcinogenic chemicals.
+        \n3) avoid smoking.
+        \n4) avoid unnecessary exposure to radiation.
+        \n5) Understand what kinds of radiation do not cause brain cancer :-People are often exposed to more common forms of radiation including electromagnetic fields or radiofrequency radiation.
+        \n6) Exercise regularly :- Aim to exercise most days of the week.
+        Doing cardiovascular exercise can help you stay healthy and may minimize your risk of developing brain cancer.
+        Aim to walk 10,000 steps a day, which translates to walking about 5 miles (or 8 km) per day. Wearing a pedometer can help you make sure you’re taking enough steps per day.
+        You can do any type of cardio training to maintain your health. Beyond walking, consider running, swimming, rowing, or biking.
+
+
+
+    </string>
+    <string name="next_Second">next</string>
+    <string name="healthinformation">
+
+        There are several tips to stay healthy :-
+        \n1) Take care of food :- Avoid unhealthy food that is high in calories. They gradually take a toll on your health leading to weight gain, heart diseases and cholesterol.
+        \n2) Breakfast is a must :- Never skip breakfast, our metabolic rate decreases leading to weight gain and digestion problems. Breakfast increases concentration, helps us focus better and controls weight.
+        \n3) Washing your hands. and then washing them again and again and again :- Hand sanitizers were invented for a reason. If your hands are dirty, you clean them.
+        \n4) Avoid mindless eating :- You are hungry, you eat. You are bored, you eat. You are angry, you eat. And you are lazy to do your chores, you eat again. Unless otherwise you have plans of getting shifted to a hospital permanently, don\'t do this.
+        \n5) Balanced diet :- Incorporating proteins, minerals, iron, vitamins, calcium, carbs and fat (good fat) in your daily diet is very necessary. Fruits, vegetables, lean meat, poultry, milk, whole grain foods make a balanced diet.
+        \n6) Exercise :- Exercise is a must, workouts, aerobics, walking or jogging regulates heart rate giving you more energy to work hard through the day. Exercise early in the morning won’t make you feel lazy in the day. It improves blood circulation and releases muscle tension giving you a stronger body and mind.
+        \n7) Practice yoga :-  Yoga helps in overall mind and body development. It is a two-in-one medium to keep you healthy both mentally and physically.
+        \n8) Avoid smoking :- Smoking ruins your health, sooner or later. cancer, lung diseases and heart problems all result because of smoking.
+        \n9) Control your drinks :- Alcohol may relax you after a hard day’s work, but it also reduces the number of white blood cells (WBC fights germs) and thereby indirectly weakens the immunity system.
+        \n10) Have lots Of fluid :- Drink at least 8-9 glasses of water every day. It not only flushes your system but also keeps your skin good and healthy.
+        \n11) Proper sleep :- Get a minimum 8 hours sleep because it relaxes your mind and keeps you healthy.
+        \n<b><i>Prize your Health. It is precious! All it takes are the above tips to stay healthy!</i></b>
+</string>
+    <string name="next_1">Next</string>
+    <string name="play_video">Play Video</string>
+    <string name="hostpital_information_details">Detail about hospitals (<b>pdf Information</b>)</string>
+</resources>
